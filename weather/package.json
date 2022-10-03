@@ -1,0 +1,17 @@
+{
+  "name": "timezone",
+  "version": "1.0.0",
+  "description": "tells the time in deffrent zones in the world",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "costumeTarget": "ls"
+  },
+  "author": "Yuval Pinhas",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "weather-js": "^2.0.0"
+  }
+}
